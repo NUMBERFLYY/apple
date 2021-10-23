@@ -1,23 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
 body{
-background: pink;
+background:url(https://pt-blog.ru/wp-content/uploads/2018/05/19.jpg);
 display: flex;
 flex-direction: column;
 align-items: center;
+font-family: 'Comfortaa', cursive;
 }
 .about-us{
-  background: blueviolet;  
+  background:rgb(0, 88, 139);  
 }
 .box{
-    width: 500
+    width: 500px;
+    padding: 50px;
+    margin: 40px 0px;
 }
 .image img{
 width: 100%;   
 }
 P {
-    color: darkmagenta;
+    color: rgb(139, 0, 86);
     font-size: 24px;
 }
 h1{
     text-align: center;
-    color: darkred;
+    color: rgb(127, 0, 139);
 }
